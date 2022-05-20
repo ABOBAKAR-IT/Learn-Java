@@ -15,7 +15,7 @@ class MyClass {
     public static void main(String[ ] args) {
         System.out.println("Enter Name");//print new line in end of string 
         Scanner myVar = new Scanner(System.in);
-       System.out.println(myVar.nextLine());//print new line in end of string 
+       System.out.println("Your name is : " + myVar.nextLine());//print new line in end of string 
 
     }
 }
