@@ -1,6 +1,6 @@
 public class If_Else_7 {
     public static void main(String[] args) {
-       ​‌‍‌ //​ ⁡⁢⁣⁣​‌‌‍‍𝙏𝙝𝙚 𝙞𝙛 𝙎𝙩𝙖𝙩𝙚𝙢𝙚𝙣𝙩​⁡
+    //​ ⁡⁢⁣⁣​‌‌‍‍𝙏𝙝𝙚 𝙞𝙛 𝙎𝙩𝙖𝙩𝙚𝙢𝙚𝙣𝙩​⁡
         if (20 > 18) {
             System.out.println("20 is greater than 18"); // obviously
         }
