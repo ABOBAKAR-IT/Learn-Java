@@ -16,6 +16,7 @@ class MyClass {
         System.out.println("Enter Name");//print new line in end of string 
         Scanner myVar = new Scanner(System.in);
        System.out.println("Your name is : " + myVar.nextLine());//print new line in end of string 
+       System.console().readLine();
 
     }
 }
