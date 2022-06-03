@@ -28,6 +28,9 @@ System.out.println(Math.random());
 int randomNum = (int)(Math.random() * 101);  // 0 to 100
 System.out.println(randomNum);
 
+// ⁡⁢⁣⁣​‌‌‍𝙈𝙖𝙩𝙝.𝙛𝙡𝙤𝙤𝙧()​⁡
+//  Similarly, Math.floor() rounds a floating point value down to the nearest integer value.
+System.out.println(Math.floor(7.3));
 
 
 
