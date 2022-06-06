@@ -2,7 +2,7 @@
 
 public class if_else_show_grade_task {
     public static void main(String[] args) {
-        System.out.println(" Enter Mask");7
+        System.out.println(" Enter Mask");
         Integer mask= Integer.parseInt(System.console().readLine());
         if(mask>80)
         {
